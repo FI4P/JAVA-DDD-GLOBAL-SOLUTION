@@ -1,6 +1,6 @@
 # Simulador de Impacto do Hidrogênio Verde 🌱
 
-Este projeto é um simulador que ajuda a calcular o impacto ambiental e econômico ao migrar de fontes de energia convencionais, como gás natural, para o hidrogênio verde. A aplicação permite adicionar empresas, calcular as emissões de CO₂, os custos de consumo de energia, e analisar a economia ao adotar fontes renováveis.
+Este projeto é um simulador que ajuda a calcular o impacto ambiental e econômico ao migrar de fontes de energia convencionais para o hidrogênio verde. A aplicação permite adicionar empresas, calcular as emissões de CO₂, os custos de consumo de energia, e analisar a economia ao adotar fontes renováveis.
 
 ---
 
